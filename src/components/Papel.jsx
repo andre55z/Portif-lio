@@ -6,8 +6,8 @@ function Papel(){
         <>
             <div className="">
                 <img src={Wallpp} className="lg:hidden absolute z-10 top-0"/>
-                <img src={Degrade} className="absolute md:hidden sm:hidden lg:hidden z-20 top-[-10px] w-full max-w-full"/>
-                <img src={Bigwpp} className="hidden lg:block w-full h-full absolute z-10 top-0"/>
+                <img src={Degrade} className="absolute lg:hidden z-20 top-[-10px] lg:top-0 w-full max-w-full"/>
+                <img src={Bigwpp} className="hidden lg:block w-full  absolute z-10 top-0"/>
             </div>
         </>
     )
