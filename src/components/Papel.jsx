@@ -1,5 +1,5 @@
 import Wallpp from "../assets/Wallpaper.png"
-import Degrade from "../assets/Degrade.png"
+import Degrade from "../assets/degrade.png"
 import Bigwpp from "../assets/Wppbig.png"
 function Papel(){
     return(
