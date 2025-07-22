@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "tailwindcss-animated";
+
+@font-face {
+  font-family: 'Aoboshi-One';
+  src: url("./fonts/AoboshiOne-Regular.ttf");
+  font-weight: normal;
+  font-style: swap;
+}
+
+:root{
+  --font-aoboshi: 'Aoboshi-One', sans-serif;
+}
+
+.font-aoboshi{
+  font-family: var(--font-aoboshi);
+}
